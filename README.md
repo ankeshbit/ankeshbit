@@ -2,9 +2,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Your%20Name&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20Open-Source%20Contributor&descSize=16&descAlignY=58&descColor=cccccc)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR_NAME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankesh Srivastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ankeshsrivastava61289)
+[![GitHub](https://img.shields.io/badge/GitHub-ankeshbit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankeshbit)
+[![Profile Views](https://komarev.com/ghpvc/?username=ankeshbit&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)](https://github.com/ankeshbit)
 
 </div>
 
@@ -58,14 +58,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=ankeshbit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankeshbit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9" height="165" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=ff6b6b&currStreakLabel=6e40c9)
+![GitHub Streak](https://streak-stats.demolab.com?user=ankeshbit&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=ff6b6b&currStreakLabel=6e40c9)
 
 </div>
 
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ankeshbit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
@@ -85,7 +85,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&hide_border=true)](https://github.com/yourusername)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankeshbit&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&hide_border=true)](https://github.com/ankeshbit)
 
 </div>
 
