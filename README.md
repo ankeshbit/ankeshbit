@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Ankesh%20Srivastava&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20Open-Source%20Contributor&descSize=16&descAlignY=58&descColor=cccccc)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Ankesh%20Srivastava&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=MERN%20Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Enthusiast%20%C2%B7%20Open-Source%20Contributor&descSize=16&descAlignY=58&descColor=cccccc)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankesh%20Srivastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankeshsrivastava61289)
 [![GitHub](https://img.shields.io/badge/GitHub-ankeshbit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankeshbit)
