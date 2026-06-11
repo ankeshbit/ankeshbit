@@ -110,15 +110,6 @@ I'm a **MERN Full-Stack Developer** based in Gorakhpur, India, passionate about 
 
 ---
 
-### 🤝 Open Source Contributions
-
-- 🔧 Contributed to **[Repo/Org Name]** — *brief description of what you did*
-- 📦 Contributed to **[Repo/Org Name]** — *brief description of what you did*
-- 🐛 Fixed **[issue/bug]** in **[Repo Name]** — *brief description*
-
-> If you don't have OSS contributions yet, remove this section or replace it with a "Currently exploring" note.
-
----
 
 <div align="center">
 
