@@ -72,18 +72,6 @@ I'm a **MERN Full-Stack Developer** based in Gorakhpur, India, passionate about 
 
 ---
 
-### 🔥 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🚀 **[Project Name 1](https://github.com/ankeshbit/project1)** | Brief description of what it does and why it matters | React, Node.js, MongoDB |
-| 🤖 **[Project Name 2](https://github.com/ankeshbit/project2)** | Brief description of what it does and why it matters | Python, FastAPI, TensorFlow |
-| 🌐 **[Project Name 3](https://github.com/ankeshbit/project3)** | Brief description of what it does and why it matters | Next.js, PostgreSQL, Docker |
-| 🛠️ **[Project Name 4](https://github.com/ankeshbit/project4)** | Brief description of what it does and why it matters | Express, Redis, AWS |
-
-> 💡 Replace the placeholders above with your real projects and links!
-
----
 
 ### 📊 GitHub Stats
 
