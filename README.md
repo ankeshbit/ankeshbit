@@ -1,21 +1,39 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Ankesh%20Srivastava&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=MERN%20Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Enthusiast%20%C2%B7%20Open-Source%20Contributor&descSize=16&descAlignY=58&descColor=cccccc)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=220&section=header&text=Ankesh%20Srivastava&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=MERN%20Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Enthusiast%20%C2%B7%20Open-Source%20Contributor&descSize=18&descAlignY=55&descColor=cccccc)
+
+</div>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankesh%20Srivastava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankeshsrivastava61289)
 [![GitHub](https://img.shields.io/badge/GitHub-ankeshbit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankeshbit)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=ankeshbit&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)](https://github.com/ankeshbit)
 
 </div>
 
 ---
 
+### 👋 About Me
+
+I'm a **MERN Full-Stack Developer** based in Gorakhpur, India, passionate about building scalable web applications and intelligent ML systems. I love taking products from raw idea to production — clean architecture, clear code, and real-world impact.
+
+- 🔭 Currently **exploring projects and open to opportunities**
+- 🌱 Deepening skills in **LLMs, RAG pipelines, and distributed systems**
+- 💬 Ask me about **React, Node.js, FastAPI, or anything ML**
+- 📬 Open to **full-time roles, freelance work, and collaborations**
+- ⚡ Fun fact: I debug faster with coffee ☕
+
+---
+
 ### 🚀 What I Do
 
 - 🧩 Design and build **scalable full-stack web applications**
-- 🤖 Develop **end-to-end ML workflows** (data → insights)
+- 🤖 Develop **end-to-end ML workflows** (data → model → deployment → insights)
 - ⚙️ Engineer systems with a focus on **performance, clarity, and longevity**
 - 🚢 Take products from **idea to deployment**
+- 🛠️ Contribute to **open-source** projects and communities
 
 ---
 
@@ -51,6 +69,19 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+### 🔥 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🚀 **[Project Name 1](https://github.com/ankeshbit/project1)** | Brief description of what it does and why it matters | React, Node.js, MongoDB |
+| 🤖 **[Project Name 2](https://github.com/ankeshbit/project2)** | Brief description of what it does and why it matters | Python, FastAPI, TensorFlow |
+| 🌐 **[Project Name 3](https://github.com/ankeshbit/project3)** | Brief description of what it does and why it matters | Next.js, PostgreSQL, Docker |
+| 🛠️ **[Project Name 4](https://github.com/ankeshbit/project4)** | Brief description of what it does and why it matters | Express, Redis, AWS |
+
+> 💡 Replace the placeholders above with your real projects and links!
 
 ---
 
@@ -91,9 +122,21 @@
 
 ---
 
+### 🤝 Open Source Contributions
+
+- 🔧 Contributed to **[Repo/Org Name]** — *brief description of what you did*
+- 📦 Contributed to **[Repo/Org Name]** — *brief description of what you did*
+- 🐛 Fixed **[issue/bug]** in **[Repo Name]** — *brief description*
+
+> If you don't have OSS contributions yet, remove this section or replace it with a "Currently exploring" note.
+
+---
+
 <div align="center">
 
 *Backend-first. Data-aware. Built to scale.*
+
+[![Let's Connect](https://img.shields.io/badge/Let's%20Connect-6e40c9?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/ankeshsrivastava61289)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer)
 
