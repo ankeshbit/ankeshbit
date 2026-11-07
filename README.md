@@ -75,11 +75,14 @@ I'm a **MERN Full-Stack Developer** based in Gorakhpur, India, passionate about 
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Profile Summary
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ankeshbit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" alt="Profile Details" />
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="Stats" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most Commit Language" />
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive Time" />
 
 </div>
 
