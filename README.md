@@ -89,7 +89,7 @@ I'm a **MERN Full-Stack Developer** based in Gorakhpur, India, passionate about 
 
 <div align="center">
 
-<a href="https://github.com/ankeshbit"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ankeshbit&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&hide_border=true" alt="Activity Graph" /></a>
+<a href="https://github.com/ankeshbit"><img src="https://ghchart.rshah.org/6e40c9/ankeshbit" alt="Contribution Graph" width="800" /></a>
 
 </div>
 
