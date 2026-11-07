@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/ankeshsrivastava61289"><img src="https://img.shields.io/badge/LinkedIn-Ankesh%20Srivastava-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 <a href="https://github.com/ankeshbit"><img src="https://img.shields.io/badge/GitHub-ankeshbit-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:ankeshsrivastava61289@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/ankeshbit"><img src="https://komarev.com/ghpvc/?username=ankeshbit&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="Profile Views" /></a>
 
 </div>
