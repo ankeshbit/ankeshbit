@@ -62,13 +62,6 @@ I'm a **MERN Full-Stack Developer** based in Gorakhpur, India, passionate about 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankeshbit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankeshbit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9" height="165" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=ankeshbit&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e40c9&ring=6e40c9&fire=ff6b6b&currStreakLabel=6e40c9" alt="GitHub Streak" />
 
 </div>
